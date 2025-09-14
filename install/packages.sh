@@ -1,22 +1,13 @@
 #!/bin/bash
 
 sudo pacman -S --noconfirm --needed \
-  1password-beta \
-  1password-cli \
-  asdcontrol-git \
   alacritty \
   avahi \
   bash-completion \
   bat \
-  blueberry \
-  brightnessctl \
   btop \
   cargo \
   clang \
-  cups \
-  cups-browsed \
-  cups-filters \
-  cups-pdf \
   docker \
   docker-buildx \
   docker-compose \
@@ -46,19 +37,12 @@ sudo pacman -S --noconfirm --needed \
   hyprpicker \
   hyprshot \
   hyprsunset \
-  imagemagick \
-  impala \
-  imv \
   inetutils \
-  iwd \
   jq \
-  kdenlive \
-  kvantum-qt5 \
   lazydocker \
   lazygit \
   less \
   libqalculate \
-  libreoffice \
   llvm \
   localsend \
   luarocks \
@@ -74,11 +58,8 @@ sudo pacman -S --noconfirm --needed \
   noto-fonts-extra \
   nss-mdns \
   nvim \
-  obs-studio \
-  obsidian \
   omarchy-chromium \
   pamixer \
-  pinta \
   playerctl \
   plocate \
   plymouth \
@@ -89,11 +70,10 @@ sudo pacman -S --noconfirm --needed \
   python-poetry-core \
   python-terminaltexteffects \
   qt5-wayland \
+  qt6-wayland \
   ripgrep \
   satty \
-  signal-desktop \
   slurp \
-  spotify \
   starship \
   sushi \
   swaybg \
@@ -104,7 +84,6 @@ sudo pacman -S --noconfirm --needed \
   ttf-cascadia-mono-nerd \
   ttf-ia-writer \
   ttf-jetbrains-mono-nerd \
-  typora \
   tzupdate \
   ufw \
   ufw-docker \
@@ -124,7 +103,6 @@ sudo pacman -S --noconfirm --needed \
   xdg-desktop-portal-gtk \
   xdg-desktop-portal-hyprland \
   xmlstarlet \
-  xournalpp \
   yaru-icon-theme \
   yay \
   zoxide
