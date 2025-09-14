@@ -6,11 +6,6 @@ sudo pacman -S --noconfirm --needed \
   bash-completion \
   bat \
   btop \
-  cargo \
-  clang \
-  docker \
-  docker-buildx \
-  docker-compose \
   dust \
   evince \
   eza \
@@ -22,8 +17,6 @@ sudo pacman -S --noconfirm --needed \
   ffmpegthumbnailer \
   fontconfig \
   fzf \
-  gcc14 \
-  github-cli \
   gnome-calculator \
   gnome-keyring \
   gnome-themes-extra \
