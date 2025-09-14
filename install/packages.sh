@@ -32,7 +32,6 @@ sudo pacman -S --noconfirm --needed \
   hyprsunset \
   inetutils \
   jq \
-  lazydocker \
   lazygit \
   less \
   libqalculate \
